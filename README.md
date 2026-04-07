@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">cc-creativity-skills</h1>
+  <img src="./logo.png" alt="cc-creativity-skills" width="600">
 </p>
 
 <p align="center">
