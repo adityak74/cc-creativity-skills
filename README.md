@@ -1,1 +1,1 @@
-# agent-thinking-skills
+# cc-creativity-skills
