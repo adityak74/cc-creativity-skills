@@ -1,0 +1,34 @@
+{
+  "name": "cc-creativity-skills",
+  "owner": {
+    "name": "Aditya Karnam",
+    "github": "adityak74"
+  },
+  "metadata": {
+    "description": "Claude Code skills for deep creative intelligence — activate original thinking, breakthrough ideation, and artistic problem-solving",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "creative-source",
+      "source": "./plugins/creative-source",
+      "description": "Activate deep creative intelligence for original thinking, breakthrough ideas, brainstorming, creative writing, and artistic problem-solving",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aditya Karnam",
+        "github": "adityak74"
+      },
+      "category": "creativity",
+      "keywords": [
+        "creativity",
+        "brainstorming",
+        "ideation",
+        "creative-writing",
+        "divergent-thinking",
+        "artistic",
+        "original-thinking",
+        "problem-solving"
+      ]
+    }
+  ]
+}
